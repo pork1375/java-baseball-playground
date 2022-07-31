@@ -1,7 +1,10 @@
+package chanAfter;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class chanAfterBaseball {
+
 
     private static final int NUMBER_MIN = 0;
     private static final int NUMBER_THREE_MAX = 3;
@@ -80,6 +83,7 @@ public class Main {
         }
         return userNumbers;
     }
+
 
 
 }
